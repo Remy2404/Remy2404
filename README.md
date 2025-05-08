@@ -131,9 +131,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=remy2404&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Ramy's GitHub Activity Graph" width="100%" />
 </div>
 
-<!-- GitHub Contribution Snake Animation  Version -->
+<!-- GitHub Contribution Snake Animation Version -->
 <div align="center">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/remy2404/remy2404/output/github-contribution-grid-snake.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/remy2404/remy2404/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/remy2404/remy2404/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/remy2404/remy2404/output/ocean.gif" />
+  </picture>
 </div>
 
 ---
