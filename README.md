@@ -187,5 +187,4 @@
   <h3>🤝 Available for Freelance Projects and Job Opportunities</h3>
 </div>
 
-<!-- Wave Animation Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=120&section=footer" />
