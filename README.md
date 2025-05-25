@@ -114,7 +114,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=remy2404&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" alt="remy2404" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=remy2404&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&langs_count=10" alt="remy2404" />
 </div>
 
 <div align="center">
