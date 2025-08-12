@@ -142,25 +142,6 @@
 
 ---
 
-<!-- Support Me Section -->
-<h2 align="center">☕ Support My Work</h2>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://github.com/sponsors/remy2404" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Sponsors-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors"/>
-  </a>
-  <a href="https://www.patreon.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
-  </a>
-  <a href="https://ko-fi.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-  </a>
-</div>
-
----
 
 <!-- Connect with me section -->
 <h2 align="center">🌐 Connect With Me</h2>
