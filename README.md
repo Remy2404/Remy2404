@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Ramy&fontSize=80&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Mobile%20%26%20AI%20Enthusiast&descSize=25&descAlign=50&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Ramy&fontSize=80&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Mobile%20and%20AI%20Enthusiast&descSize=25&descAlign=50&descAlignY=60" width="100%" />
 </div>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
