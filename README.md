@@ -1,9 +1,13 @@
 <!-- Animated Header with Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ramy;Full+Stack+Developer;Web+%26+Mobile+Expert;Always+Learning+New+Things" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ramy;Full+Stack+Developer;Web+%26+Mobile+Expert;Always+Learning+New+Things&bust=1"
+      alt="Typing SVG"
+    />
   </a>
 </p>
+
 
 <h3 align="center">A passionate full stack developer crafting elegant solutions</h3>
 
