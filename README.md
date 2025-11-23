@@ -73,7 +73,13 @@
     <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" />
   </div>
 </details>
+<h2 align="center"> Featured Project</h2>
 
+<div align="center">
+  <a href="https://github.com/remy2404/Polymind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=remy2404&repo=Polymind&theme=radical&hide_border=true&bg_color=0D1117&icon_color=36BCF7" />
+  </a>
+</div>
 <br/>
 
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -98,6 +104,13 @@
 <div align="center">
   <img src="https://github.com/remy2404/remy2404/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
+
+<br/>
+<h2 align="center">💬 Daily Dev Wisdom</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&is_bolder=true" alt="Dev Quote" />
+</div>
+<br/>
 
 <br/>
 
