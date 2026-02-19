@@ -84,27 +84,8 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=remy2404&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"
-    height="180"
-    alt="remy2404 stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=remy2404&layout=compact&langs_count=15&theme=radical&hide_border=true&bg_color=0D1117"
-    height="180"
-    alt="remy2404 languages"
-  />
-
-  <br/>
-
-  <img
-    src="https://github-readme-streak-stats.vercel.app/?user=remy2404&theme=radical&hide_border=true&background=0D1117"
-    alt="remy2404 streak"
-  />
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/remy2404?cardType=level-alternate&fontFamily=Aclonica&preferLogin=false)](https://git.io/awesome-stats-card)
+![GitHub Stats](https://streak-stats.demolab.com?user=Remy2404&theme=dark&hide_border=true)
 </div>
 <br/>
 
