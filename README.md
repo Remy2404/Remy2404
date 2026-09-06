@@ -26,15 +26,15 @@
 
 <br/>
 
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center"> About Me</h2>
 <p align="center">
-  I am a final-year <strong>IT Engineering Student</strong> and passionate <strong>Full Stack Developer</strong> based in Cambodia 🇰🇭. <br>
+ <strong>Backend Developer</strong> based in Cambodia 🇰🇭. <br>
   I specialize in building robust web platforms and native mobile applications. Currently, I am diving deep into <strong>Artificial Intelligence</strong>, specifically <strong>AI Agents</strong> and <strong>Model Context Protocols (MCP)</strong>.
 </p>
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack & Arsenal</h2>
+<h2 align="center"> Tech Stack & Arsenal</h2>
 
 <table align="center">
   <tr>
@@ -74,14 +74,14 @@
   </div>
 </details>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"> GitHub Analytics</h2>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/remy2404?cardType=level-alternate&fontFamily=Aclonica&preferLogin=false)](https://git.io/awesome-stats-card)
 ![GitHub Stats](https://streak-stats.demolab.com?user=Remy2404&theme=dark&hide_border=true)
 </div>
 <br/>
 
-<h2 align="center">🐍 Contribution History</h2>
+<h2 align="center"> Contribution History</h2>
 <div align="center">
   <img src="https://github.com/remy2404/remy2404/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
@@ -94,8 +94,3 @@
 <br/>
 
 <br/>
-
-<div align="center">
-  <h3>🤝 Open to Internship & Freelance Opportunities</h3>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=100&section=footer" />
-</div>
