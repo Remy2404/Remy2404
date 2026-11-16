@@ -25,7 +25,10 @@
 </div>
 
 <br/>
-
+<h2 align="center"> Most Used Languages</h2>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Remy2404&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 <h2 align="center"> About Me</h2>
 <p align="center">
  <strong>Backend Developer</strong> based in Cambodia 🇰🇭. <br>
